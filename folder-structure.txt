@@ -1,3 +1,4 @@
 01. Installation (Folder 01 to 03)
 02. Albums App (Folder 04 to 07)
-03. Auth App (Folder 08 to)
+03. Auth App (Folder 08 to 09)
+04. Stack App with Redux (Folder 10 to 12)
