@@ -1,0 +1,8 @@
+{
+    "extends": "rallycoding",
+    // 14-4
+    // You can turn off a single rule if think that rule is annoying
+    "rules": {
+        "arrow-body-style": "off"
+    }
+}
